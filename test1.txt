@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 386A-1115
+
+ Directory of C:\Users\admin\Desktop\MyProject
+
+21/01/2017  11:15 AM    <DIR>          .
+21/01/2017  11:15 AM    <DIR>          ..
+21/01/2017  08:20 AM               356 test.txt
+21/01/2017  11:15 AM                 0 test1.txt
+               2 File(s)            356 bytes
+               2 Dir(s)  307,916,361,728 bytes free
